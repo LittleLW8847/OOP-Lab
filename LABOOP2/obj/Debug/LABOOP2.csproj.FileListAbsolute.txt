@@ -1,0 +1,9 @@
+E:\OOPLAB\LABOOP2\LABOOP2\bin\Debug\LABOOP2.exe.config
+E:\OOPLAB\LABOOP2\LABOOP2\bin\Debug\LABOOP2.exe
+E:\OOPLAB\LABOOP2\LABOOP2\bin\Debug\LABOOP2.pdb
+E:\OOPLAB\LABOOP2\LABOOP2\obj\Debug\LABOOP2.csprojResolveAssemblyReference.cache
+E:\OOPLAB\LABOOP2\LABOOP2\obj\Debug\LABOOP2.Form1.resources
+E:\OOPLAB\LABOOP2\LABOOP2\obj\Debug\LABOOP2.Properties.Resources.resources
+E:\OOPLAB\LABOOP2\LABOOP2\obj\Debug\LABOOP2.csproj.GenerateResource.Cache
+E:\OOPLAB\LABOOP2\LABOOP2\obj\Debug\LABOOP2.exe
+E:\OOPLAB\LABOOP2\LABOOP2\obj\Debug\LABOOP2.pdb
